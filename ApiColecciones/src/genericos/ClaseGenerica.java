@@ -1,4 +1,13 @@
 package genericos;
+/*
+Nombre  Significado
+    E   Element
+    K   Key
+    N   Number
+    T   Type
+    V   Value
+
+*/
 
 //entre <> indico el tipo
 public class ClaseGenerica <T>{
